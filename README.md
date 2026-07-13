@@ -31,3 +31,5 @@ This project analyzes the AdventureWorks sales dataset to generate meaningful bu
 - SQL Queries
 - Dashboard Screenshots
 - Project Documentation (PDF)
+
+## All module Dashboard screenshot.png
