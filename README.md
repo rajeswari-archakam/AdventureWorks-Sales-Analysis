@@ -32,4 +32,4 @@ This project analyzes the AdventureWorks sales dataset to generate meaningful bu
 - Dashboard Screenshots
 - Project Documentation (PDF)
 
-## All module Dashboard screenshot.png
+## (All module Dashboard screenshots.png)
